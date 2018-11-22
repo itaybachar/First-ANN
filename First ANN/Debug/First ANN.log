@@ -1,0 +1,21 @@
+﻿  Matrix.cpp
+c:\users\itayb\desktop\programming\c++\first ann\first ann\matrix.cpp(121): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  main.cpp
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(239): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\itayb\desktop\programming\c++\first ann\first ann\main.cpp(255): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  First ANN.vcxproj -> C:\Users\itayb\Desktop\Programming\C++\First ANN\Debug\First ANN.exe
